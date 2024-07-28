@@ -1,0 +1,10 @@
+5000 | Arnnav Reddy       | 654 Jubilee Hills, Hyderabad     | PAN34567 |
+1111 | Kavya Sharma      | 791 Park Street, Kolkata         | PAN89012 |
+4000 | Anannya Joshi      | 135 Civil Lines, Allahabad       | PAN45678 |
+9999 | Ishika Gupta      | 579 Cunningham Road, Bangalore   | PAN90123 |
+8000 | Diya Malhotra     | 357 Ashok Nagar, Chennai         | PAN12345 |
+9000 | Ishaaan Sharma     | 468 Chandni Chowk, Delhi         | PAN67890 |
+9999 | Ishika Gupta      | 579 Cunningham Road, Bangalore   | PAN23456 |
+6969 | Kabir Singh       | 680 Race Course Road, Indore     | PAN78901 |
+1111 | Kavya Sharma      | 791 Park Street, Kolkata         | PAN34567 |
+1800 | Krish Tiwari      | 902 Bistupur, Jamshedpur         | PAN89012 |

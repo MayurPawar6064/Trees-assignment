@@ -1,0 +1,10 @@
+Avni Kumar | HDFC Bank | 9999 | 5000.50 | PAN34567 |
+Ananya Joshi | Axis Bank | 3333 | 3000.25 | PAN45678 |
+Aryan Yadav | SBI Bank | 2222 | 6000.00 | PAN90123 |
+Diya Malhotra | HDFC Bank | 6577 | 4500.25 | PAN12345 |
+Ishaan Sharma | BOB Bank | 1611 | 8000.50 | PAN67890 |
+Aryan Reddy | BOB Bank | 6099 | 6300.75 | PAN89012 |
+Diya Malhootra | SBI Bank | 7777 | 9000.00 | PAN78901 |
+Ishaan Sharma | Yes Bank | 1111 | 9000.50 | PAN67890 |
+Avni Kumar | HDFC Bank | 8888 | 5500.25 | PAN34567 |
+Aryan Reddy| ICICI Bank | 6599 | 6500.75 | PAN89012 |

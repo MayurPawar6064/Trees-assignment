@@ -1,0 +1,10 @@
+1000  |Aarav Sharma      | 123 Green Park, New Delhi        |     
+3000  |Aanya Singh       | 456 Malviya Nagar, Jaipur        |     
+6000  |Advait Patel      | 789 Lajpat Nagar, Mumbai         |     
+7000  |Aisha Gupta       | 321 Model Town, Ludhiana         |     
+5000  |Arnav Reddy       | 654 Jubilee Hills, Hyderabad     |     
+2000  |Avni Kumar        | 987 Rajaji Nagar, Bengaluru      |     
+3500  |Diya Malhotra     | 357 Ashok Nagar, Chennai         |     
+4000  |Ananya Joshi      | 135 Civil Lines, Allahabad       |     
+4500  |Aryan Yadav       | 246 Station Road, Lucknow        |     
+9000  |Ishaan Sharma     | 468 Chandni Chowk, Delhi         |
